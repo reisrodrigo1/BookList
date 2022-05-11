@@ -1,6 +1,5 @@
 # 📚 BookList 📚
 
-##Development project for evaluation at Fotontech.
 
 <h1 align="center">
    🔗Developed in React-Native, NodeJs e MongoDB
